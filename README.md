@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Kuldeep Rishi! 👋<img src="" width="50"></h2>
+<h2> Hi, I'm Kuldeep Rishi! 👋</h2>
 <img align='right' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 <p><em>Senior Enginner at <a href="http://www.wayfair.com">Wayfair</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
