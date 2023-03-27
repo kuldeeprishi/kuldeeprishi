@@ -9,7 +9,7 @@
 [![GitHub Kuldeeprishi](https://img.shields.io/github/followers/kuldeeprishi?label=follow&style=social)](https://github.com/kuldeeprishi)
 
 
-- 💼 Looking for a solutions consultant? do reach, [email](mailto:kuldeepkrishi@gmail.com) :)
+- 💼 Looking for a solutions consultant? reachout via [email](mailto:kuldeepkrishi@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 ---
 
